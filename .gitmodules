@@ -1,0 +1,3 @@
+[submodule "TRUST4"]
+	path = TRUST4
+	url = https://github.com/liulab-dfci/TRUST4.git
